@@ -1,0 +1,3 @@
+def name(student,teacher):
+print("student name")
+print("teacher name")
